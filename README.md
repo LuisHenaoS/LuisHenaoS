@@ -13,7 +13,7 @@
 ## 🧑‍💻 About Me
 
 - 🚀 **DevOps**  
-- 🎓 Higher Technician in Web Application Development at **iFP** with specialization in Cloud Computing and Systems Administration 
+- 🎓 Higher Technician in Web Application Development at **iFP** with specialization in Cloud Computing and Systems Administration at **UNIR**
 - 🌍 Based in **Barcelona**  
 - 🛠️ Currently pursuing **Red Hat Certified System Administrator** and **Certified Kubernetes Administrator**  
 - ⚡ I like **MMA, swimming, and walking**
