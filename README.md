@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4e5558c7-68bc-4e74-9b6e-9b91ba4b4a18/daatzvk-cdcfb8e8-7e4a-4e4f-a385-28f0a860280f.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzRlNTU1OGM3LTY4YmMtNGU3NC05YjZlLTliOTFiYTRiNGExOFwvZGFhdHp2ay1jZGNmYjhlOC03ZTRhLTRlNGYtYTM4NS0yOGYwYTg2MDI4MGYuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.TP1dCseNzlEpqD3c8lPTnh4JTFYfsfd2nR6RYSb14Xo" alt="Desarrollador" width="185"/>
 </p>
-
+--- 
 <p align="center">
   <a href="https://www.linkedin.com/in/luis-henao-saldarriaga-070065294/">
     <img src="https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
@@ -22,8 +22,7 @@
 
 ---
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LuisHenaoS&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="50" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LuisHenaoS&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LuisHenaoS&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="100" alt="languages graph"  />
 </div>
 
 ###
