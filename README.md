@@ -1,20 +1,6 @@
-  <style>
-    .gif-container {
-      width: 800px;
-      height: 400px;
-      overflow: hidden;
-      position: relative;
-      margin: 0 auto;
-    }
-    .gif-container img {
-      position: absolute;
-      top: -50px;
-      left: -30px;
-      width: 900px;
-    }
-  <div class="gif-container">
-    <img src="https://i.ibb.co/PCYgLNF/output.gif" alt="ASCII South Park GIF">
-  </div>
+<p align="center">
+  <img src="https://i.ibb.co/PCYgLNF/output.gif" />
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/luis-henao-saldarriaga-070065294/">
