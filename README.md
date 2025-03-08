@@ -1,5 +1,5 @@
 <p align="center">
-[Descripción opcional](https://i.imgur.com/7RGsgBw.gif)
+  <img src="https://i.imgur.com/7RGsgBw.gif" alt="GIF descriptivo" />
 
 </p>
 <p align="center">
