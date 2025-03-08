@@ -1,7 +1,4 @@
-<p align="center">
   <img src="https://i.imgur.com/2V4KHZ9.gif" />
-</p>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/luis-henao-saldarriaga-070065294/">
     <img src="https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
