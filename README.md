@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://files.catbox.moe/2dnlsa.gif" alt="GIF descriptivo" />
+  <img src="https://ibb.co/VY9Xf7Mt" alt="GIF descriptivo" />
 
 </p>
 <p align="center">
