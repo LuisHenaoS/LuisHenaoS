@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://imgur.com/7RGsgBw.gif" alt="GIF"/>
+[Descripción opcional](https://i.imgur.com/7RGsgBw.gif)
+
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/luis-henao-saldarriaga-070065294/">
