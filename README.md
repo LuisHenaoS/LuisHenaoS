@@ -1,6 +1,7 @@
 <p align="center">
-![Descripción del GIF](videoDef.gif)
+  <img src="videoDef.gif" alt="GIF funcionando">
 </p>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/luis-henao-saldarriaga-070065294/">
     <img src="https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
