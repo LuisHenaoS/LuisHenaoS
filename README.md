@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/5cI0ibz.gif" alt="GIF funcionando">
+  <img src="https://imgur.com/5cI0ibz" alt="GIF funcionando">
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/luis-henao-saldarriaga-070065294/">
